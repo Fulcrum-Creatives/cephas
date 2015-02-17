@@ -1,0 +1,9 @@
+[24-Jun-2014 13:47:36 America/New_York] PHP Fatal error:  Call to undefined function register_sidebar() in /home/cephascm/public_html/wp-content/themes/cephas/functions.php on line 3
+[22-Jul-2014 04:04:13 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/cephascm/public_html/wp-content/themes/cephas/page.php on line 15
+[22-Jul-2014 04:04:14 America/New_York] PHP Fatal error:  Call to undefined function is_page() in /home/cephascm/public_html/wp-content/themes/cephas/sidebar.php on line 14
+[22-Jul-2014 04:04:17 America/New_York] PHP Fatal error:  Call to undefined function language_attributes() in /home/cephascm/public_html/wp-content/themes/cephas/header.php on line 13
+[22-Jul-2014 04:04:21 America/New_York] PHP Fatal error:  Call to undefined function register_sidebar() in /home/cephascm/public_html/wp-content/themes/cephas/functions.php on line 3
+[22-Jul-2014 04:04:22 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/cephascm/public_html/wp-content/themes/cephas/blogpage.php on line 15
+[22-Jul-2014 04:04:24 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/cephascm/public_html/wp-content/themes/cephas/front.php on line 15
+[22-Jul-2014 04:04:27 America/New_York] PHP Fatal error:  Call to undefined function the_ID() in /home/cephascm/public_html/wp-content/themes/cephas/content-page.php on line 11
+[22-Jul-2014 04:04:29 America/New_York] PHP Fatal error:  Call to undefined function dynamic_sidebar() in /home/cephascm/public_html/wp-content/themes/cephas/footer.php on line 18
